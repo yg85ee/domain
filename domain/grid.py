@@ -20,6 +20,6 @@ def makeGrid(lx,nx,ly=0,ny=0):
     y1 = np.linspace(-ly/2,ly/2-dy,ny)
     
     x,y = np.meshgrid(x1,y1)
-
+    return x,y
     
     
