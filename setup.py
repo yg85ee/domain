@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
       name = 'domain',
-      version = '0.0.1',
+      version = '0.0.2',
       descirption = 'make domain',
       url = 'https://github.com/yg85ee/domain',
       author='yg',
