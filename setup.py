@@ -5,7 +5,7 @@ Created on Wed Jun 19 13:26:04 2024
 @author: ygkim
 """
 
-from setupuptools import setup, find_packages
+from setuptools import setup, find_packages
 
 setup(
       name = 'domain',
